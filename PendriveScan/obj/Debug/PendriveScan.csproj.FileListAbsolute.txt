@@ -1,0 +1,9 @@
+C:\Users\BrendonMike\Documents\visual studio 2015\Projects\PendriveScan\PendriveScan\bin\Debug\Teste.exe.config
+C:\Users\BrendonMike\Documents\visual studio 2015\Projects\PendriveScan\PendriveScan\obj\Debug\Teste.exe
+C:\Users\BrendonMike\Documents\visual studio 2015\Projects\PendriveScan\PendriveScan\obj\Debug\Teste.pdb
+C:\Users\BrendonMike\Documents\visual studio 2015\Projects\PendriveScan\PendriveScan\bin\Debug\Teste.exe
+C:\Users\BrendonMike\Documents\visual studio 2015\Projects\PendriveScan\PendriveScan\bin\Debug\Teste.pdb
+C:\Users\BrendonMike\Documents\visual studio 2015\Projects\PendriveScan\PendriveScan\obj\Debug\PendriveScan.csprojResolveAssemblyReference.cache
+C:\Users\BrendonMike\Documents\visual studio 2015\Projects\PendriveScan\PendriveScan\obj\Debug\PendriveScan.Interface.resources
+C:\Users\BrendonMike\Documents\visual studio 2015\Projects\PendriveScan\PendriveScan\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\BrendonMike\Documents\visual studio 2015\Projects\PendriveScan\PendriveScan\obj\Debug\PendriveScan.csproj.GenerateResource.Cache
